@@ -1,0 +1,9 @@
+cmd commands:
+git config --global user.name "username"
+
+git config --global user.name "username@gmail.com"
+
+vs code:
+git init
+git clone repo.git
+cd MLOps
